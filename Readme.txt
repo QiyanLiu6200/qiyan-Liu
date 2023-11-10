@@ -1,6 +1,4 @@
 
-GithubLink：https://github.com/QiyanLiu6200/qiyan-Liu
-
 Running main.py will generate the outputs folder.
 
 The files under the outputs folder are described as follows:
